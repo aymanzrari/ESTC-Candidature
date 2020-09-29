@@ -4,8 +4,11 @@
 # Requirements
 Node.js
 # Install Dependencies
-in <b> visualization_website/visualization_website/client/estc_candidatures</b> type npm install 
+in <b> visualization_website/visualization_website/client/estc_candidatures</b> 
+  <strong>type npm install</strong>
 # Running 
-in <b> visualization_website/visualization_website/client/estc_candidatures</b> npm start
+in <b> visualization_website/visualization_website/client/estc_candidatures</b> 
+ <strong>npm start </strong>
 
-in <b> visualization_website/visualization_website </b> python manage.py runserver
+in <b> visualization_website/visualization_website </b> 
+ <strong>python manage.py runserver  </strong>
