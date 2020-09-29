@@ -1,0 +1,72 @@
+
+.Size h2 {
+    font-size: 3.5em;
+    text-align: center;
+}
+
+@media(max-width: 991px) {
+    .Size h2 {
+        font-size: 2.9em;
+    }
+}
+
+.Container {
+    overflow: hidden;
+}
+
+.Login {
+    background-color: rgba(255, 255, 255, 1);
+    width: 35%;
+    margin: 0 auto;
+    padding: 40px;
+    margin-top: 105px;
+    transition: all 0.5s ease-out;
+    transform: translateY(-100vh);
+    opacity: 1;
+
+}
+
+.Size p {
+    text-align: center;
+    color: rgb(204, 204, 204);
+}
+
+.ui.form {
+    position: relative;
+    margin: 0 auto;
+    box-sizing: border-box;
+    outline: none;
+    overflow: hidden;
+}
+.loginTitle{
+    color: #1ED3CB !important;
+}
+.Link {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    margin-top: 15px;
+    color: #797979;
+}
+
+@media(max-width: 581px) {
+    .Link {
+        float: none;
+        margin-left: 10px;
+        margin-left: 3px;
+        margin-top: 5px;
+    }
+}
+
+.ui.blue.button, .ui.blue.buttons .button {
+    background-color: #1ed3cb;
+    color: white;
+    width: 100%;
+    font-size: 1.1rem;
+}
+
+@media(max-width: 581px) {
+    .ui.blue.button, .ui.blue.buttons .button {
+        width: 100%;
+    }
+}

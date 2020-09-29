@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Times new Roman', sans-serif;
+  font-size: 16px
+}
+
+.container {
+  text-align: center;
+  padding: 15px;
+  margin: 10px auto;
+}
+
+.headerStyle{
+  color:"#009688";
+  font-family:"Times new Roman"
+}

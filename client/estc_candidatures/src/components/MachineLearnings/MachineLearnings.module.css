@@ -1,0 +1,17 @@
+.FontSize {
+    font-size: 16px;
+}
+
+@media(max-width: 735px) {
+    .FontSize {
+        font-size:13px;
+    }
+}
+
+.Active {
+    color: rgb(0, 181, 173) !important;
+    margin: 0 -1px 0 0 !important;
+    font-style: italic;
+    font-size: 1.3rem;
+    font-weight: bold
+}
